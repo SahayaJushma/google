@@ -1,3 +1,6 @@
+header{
+  height: 95px;
+}
 .google{
   text-align: center;
   align-items: center;
@@ -67,7 +70,7 @@ body {
     margin-bottom: 300px;
   }
   .pepsi{
-    top: 60%;
+    top: 70%;
     left: 30%;
     position: absolute;
     display: inline-flex;
@@ -78,7 +81,7 @@ body {
     margin-left: 50px;
   }
   .apple{
-    top: 70%;
+    top: 80%;
     left: 40%;
     position: absolute;
     display: inline-flex;
